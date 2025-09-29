@@ -1,0 +1,26 @@
+From 6c9375fc108d9e460d4d461b8022f6c281d47a09 Mon Sep 17 00:00:00 2001
+From: AbijithNanthakumar <abijith.nanthakumar@psiog.com>
+Date: Mon, 29 Sep 2025 11:23:35 +0530
+Subject: [PATCH 2/2] index.html
+
+---
+ index.html | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index ff3d9c9..72279ee 100644
+--- a/index.html
++++ b/index.html
+@@ -9,6 +9,7 @@
+     <h1>Abijith</h1>
+     <h2>Victor</h2>
+ 
+-    <footer>This is a footer and no further lines....</footer>
++
++    <footer>This is not @footer and not in any</footer>
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.50.1.windows.1
+
